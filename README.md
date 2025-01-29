@@ -1,10 +1,14 @@
-- 👋 Hi, I’m Rohith
-- 👀 I’m interested in Learning new on tech
-- 🌱 I’m currently learning Python Programming
-- 💞️ I’m a Student Studying At Lendi Institute Of engineering Technology
-- 📫 to reach me Through my Email : dunnarohith006@gmail.com
+🚀 Developer | 💡 Problem Solver | 🛠️ Open Source Enthusiast
 
-<!---
-Rohith-programmer/Rohith-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! 👋 I'm [Your Name], 
+A B.Tech student passionate about technology..
+I love exploring new technologies, building projects, and solving real-world problems.
+
+🔹 Tech Stack: C , Python , HTML
+🔹 Interests: [App Development , cybersecurity , Web Designing...]
+🔹 Currently working on: Web Development
+🔹 Looking to collaborate on: Hacthons....
+
+📫 Let's connect! 
+
+LINKEDIN : www.linkedin.com/in/rohith-dunna-27b655336
